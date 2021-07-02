@@ -11,7 +11,7 @@ Connect BI Tools
    :class: singlecol
 
 Certified Partner Tools
------------------------
+----------------------- 
 
 - `Tableau Desktop <https://www.tableau.com/products/desktop>`_
 
